@@ -14,7 +14,7 @@ public class MavArray {
 			 arr1[2]="three";
 			 arr1[3]="four";
 			 arr1[4]="five";
-			 System.out.println(arr1[3]);
+			 System.out.println(arr1[2]);
 			 for(int i=0;i<=4;i++)
 			 {
 				System.out.println(arr1[i]);
